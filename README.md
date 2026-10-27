@@ -1,5 +1,6 @@
 # zabbix-map-icons
-Modernized version of default Zabbix map icons and a script to quickly replace them
+The Zabbix icon pack with modernized version of default Zabbix map icons and a script to quickly replace them.
+
 
 # Zabbix map icons — flat redesign
 
