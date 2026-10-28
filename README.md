@@ -37,3 +37,5 @@ Typical use
 ```
 
 To also add the classic icons, run it with --source <folder>/png_classic pointing at a folder you’ve unzipped. Those names aren’t built into Zabbix, so they’ll be created as new icons.
+
+Added an archive with Haloween icons 🎃
